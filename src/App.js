@@ -408,8 +408,8 @@ function App() {
                                 <div className="col-md-6 col-12 redline-box">
                                     <div className="redline">
                                         <div className="redline-text">
-                                            Участвуем в разработке ядра Drupal и модулей на Drupal.org, разрабатываем
-                                            <a href="">свои модули Drupal</a>
+                                            Участвуем в разработке ядра Drupal и модулей на Drupal.org,разрабатываем
+                                            <a href=""> свои модули Drupal</a>
                                         </div>
                                     </div>
                                 </div>
