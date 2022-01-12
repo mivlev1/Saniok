@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Saniok/static/css/main.2ae4682b.chunk.css",
-    "main.js": "/Saniok/static/js/main.0937035e.chunk.js",
-    "main.js.map": "/Saniok/static/js/main.0937035e.chunk.js.map",
-    "runtime-main.js": "/Saniok/static/js/runtime-main.a943bb38.js",
-    "runtime-main.js.map": "/Saniok/static/js/runtime-main.a943bb38.js.map",
+    "main.js": "/Saniok/static/js/main.bf0a4763.chunk.js",
+    "main.js.map": "/Saniok/static/js/main.bf0a4763.chunk.js.map",
+    "runtime-main.js": "/Saniok/static/js/runtime-main.ec5b87d7.js",
+    "runtime-main.js.map": "/Saniok/static/js/runtime-main.ec5b87d7.js.map",
     "static/css/2.504c62a9.chunk.css": "/Saniok/static/css/2.504c62a9.chunk.css",
-    "static/js/2.81e4c8a7.chunk.js": "/Saniok/static/js/2.81e4c8a7.chunk.js",
-    "static/js/2.81e4c8a7.chunk.js.map": "/Saniok/static/js/2.81e4c8a7.chunk.js.map",
-    "static/js/3.a5d34866.chunk.js": "/Saniok/static/js/3.a5d34866.chunk.js",
-    "static/js/3.a5d34866.chunk.js.map": "/Saniok/static/js/3.a5d34866.chunk.js.map",
+    "static/js/2.0dde4d8d.chunk.js": "/Saniok/static/js/2.0dde4d8d.chunk.js",
+    "static/js/2.0dde4d8d.chunk.js.map": "/Saniok/static/js/2.0dde4d8d.chunk.js.map",
+    "static/js/3.731a764e.chunk.js": "/Saniok/static/js/3.731a764e.chunk.js",
+    "static/js/3.731a764e.chunk.js.map": "/Saniok/static/js/3.731a764e.chunk.js.map",
     "index.html": "/Saniok/index.html",
     "static/css/2.504c62a9.chunk.css.map": "/Saniok/static/css/2.504c62a9.chunk.css.map",
     "static/css/main.2ae4682b.chunk.css.map": "/Saniok/static/css/main.2ae4682b.chunk.css.map",
-    "static/js/2.81e4c8a7.chunk.js.LICENSE.txt": "/Saniok/static/js/2.81e4c8a7.chunk.js.LICENSE.txt",
+    "static/js/2.0dde4d8d.chunk.js.LICENSE.txt": "/Saniok/static/js/2.0dde4d8d.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Saniok/static/media/phone.73580c9d.svg",
     "static/media/reviewSliderStyle.css": "/Saniok/static/media/right-quote-sign.84612df7.svg",
     "static/media/FormStyle.css": "/Saniok/static/media/checked-icon.33c6044d.svg",
@@ -52,10 +52,10 @@
     "static/media/youtube_icon.2099fbf7.png": "/Saniok/static/media/youtube_icon.2099fbf7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a943bb38.js",
+    "static/js/runtime-main.ec5b87d7.js",
     "static/css/2.504c62a9.chunk.css",
-    "static/js/2.81e4c8a7.chunk.js",
+    "static/js/2.0dde4d8d.chunk.js",
     "static/css/main.2ae4682b.chunk.css",
-    "static/js/main.0937035e.chunk.js"
+    "static/js/main.bf0a4763.chunk.js"
   ]
 }
