@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Saniok/static/css/main.2ae4682b.chunk.css",
-    "main.js": "/Saniok/static/js/main.9c960f01.chunk.js",
-    "main.js.map": "/Saniok/static/js/main.9c960f01.chunk.js.map",
+    "main.js": "/Saniok/static/js/main.c66a6640.chunk.js",
+    "main.js.map": "/Saniok/static/js/main.c66a6640.chunk.js.map",
     "runtime-main.js": "/Saniok/static/js/runtime-main.a943bb38.js",
     "runtime-main.js.map": "/Saniok/static/js/runtime-main.a943bb38.js.map",
     "static/css/2.504c62a9.chunk.css": "/Saniok/static/css/2.504c62a9.chunk.css",
@@ -56,6 +56,6 @@
     "static/css/2.504c62a9.chunk.css",
     "static/js/2.81e4c8a7.chunk.js",
     "static/css/main.2ae4682b.chunk.css",
-    "static/js/main.9c960f01.chunk.js"
+    "static/js/main.c66a6640.chunk.js"
   ]
 }
